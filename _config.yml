@@ -24,7 +24,7 @@ baseurl:
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://github.com/walkermay/walkermay.github.io/blob/master/images/logo1.jpg
+avatar: https://github.com/walkermay/walkermay.github.io/blob/master/images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/walkermay/walkermay.github.io/blob/master/images/favicon.png
@@ -55,7 +55,7 @@ footer-links:
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: WalkerMay https://github.com/<walkermay>
+  github: https://github.com/walkermay
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
